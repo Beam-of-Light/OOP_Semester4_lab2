@@ -31,5 +31,6 @@ private slots:
     void on_addRandNButton_clicked();
     void on_shuffleButton_clicked();
     void on_sortButton_clicked();
+    void on_removeAllButton_clicked();
 };
 #endif // MAINWINDOW_H

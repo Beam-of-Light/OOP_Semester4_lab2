@@ -80,6 +80,13 @@
          </layout>
         </item>
         <item>
+         <widget class="QPushButton" name="removeAllButton">
+          <property name="text">
+           <string>Remove all</string>
+          </property>
+         </widget>
+        </item>
+        <item>
          <layout class="QHBoxLayout" name="horizontalLayout_5">
           <item>
            <widget class="QPushButton" name="addRandButton">
